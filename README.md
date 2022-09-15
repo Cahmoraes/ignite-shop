@@ -22,7 +22,7 @@ Projeto construído como durante o módulo 4 do Programa Ignite da Rocketseat.
 
 - [typescript](https://www.typescriptlang.org/)
 - [stitches](https://stitches.dev/)
-- [nextjs] (https://nextjs.org/)
+- [nextjs](https://nextjs.org/)
 - [reactjs](https://pt-br.reactjs.org/)
 
 ## :warning: Pré-requisitos
