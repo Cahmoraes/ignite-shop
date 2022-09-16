@@ -19,10 +19,7 @@ export const ImageContainer = styled('img', {
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-
-  img: {
-    objectFit: 'cover',
-  },
+  objectFit: 'cover',
 })
 
 export const ProductDetails = styled('div', {
